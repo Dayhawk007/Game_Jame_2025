@@ -26,3 +26,4 @@ The game is controlled using the following keys:
 ## Credits
 
 The game was created by [author name].
+ Test
